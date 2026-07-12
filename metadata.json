@@ -1,0 +1,6 @@
+{
+  "name": "Nova AI",
+  "description": "Premium AI chatbot featuring conversational AI, code assistance, and a modern UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
